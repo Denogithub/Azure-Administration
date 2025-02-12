@@ -6,7 +6,6 @@ Tasks:
 
 ![Image](https://github.com/user-attachments/assets/788320ca-2095-48f5-b697-abd854b21ad2)
 ![Image](https://github.com/user-attachments/assets/7163bba8-b12d-4d5d-8414-6524bb094616)
-![Image](https://github.com/user-attachments/assets/4d3c0abf-a80f-4ccd-b72b-a951412291f5)
 ![Image](https://github.com/user-attachments/assets/a1758c34-252a-468e-b835-9651ac4759c8)
 ![Image](https://github.com/user-attachments/assets/be2161cf-04c2-4c12-b598-000e2dd684c2)
 ![Image](https://github.com/user-attachments/assets/44957353-39fb-4740-8be2-bbb96b854004)
