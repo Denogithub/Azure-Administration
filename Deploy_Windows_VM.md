@@ -1,4 +1,4 @@
-# Azure Cloud Administration Practical hands-On #
+# Deploy Windows VM #
 Tasks:
 1. Crearte a Windows VM.
 2. Login to Windows VM using RDP.
