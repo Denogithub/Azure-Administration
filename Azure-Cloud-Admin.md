@@ -2,7 +2,7 @@
 Tasks:
 1. Crearte a Windows VM.
 2. Login to Windows VM using RDP.
-3. Configure the windows VM to a Web Server.
+3. Configure the windows VM to a Web Server by installing IIS
 4. Verify is working properly.
    
 ![Image](https://github.com/user-attachments/assets/f79b1f0a-2817-4eb1-b8ba-2052e747bc2b)
