@@ -1,6 +1,6 @@
 # Deploy Linux VM & connect via ssh key instead of using admin username and password #
 Tasks:
-1. Deploy a Linux VM
+1. Deploy Linux VM
 2. Connect to Linux VM via ssh key. No password required
 3. Verify is working perfectly.
 
