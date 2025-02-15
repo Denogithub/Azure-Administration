@@ -5,7 +5,7 @@ Task:
 2. Verify OS disk is attached but not data disk
 3. create & attached a new data disk
 4. login remotely to the windows server & format the new data disk created
-5. Verify the disk is attached to the VM and can be written to.
+5. Verify disk is attached to VM and can be written to.
 
 ![Image](https://github.com/user-attachments/assets/a031ce96-e309-4026-8224-6cf74fef7a48)
 
