@@ -1,5 +1,5 @@
 # Create & Attach new data disk to windows vm#
-# Note: Most Deploy VM comes with OS disk not data disk #
+# Note: Most Deploy VM comes with OS disk, no data disk is attached. #
 Task:
 1. create a new windows Vm
 2. Verify OS disk is attached but no data disk is attach.
