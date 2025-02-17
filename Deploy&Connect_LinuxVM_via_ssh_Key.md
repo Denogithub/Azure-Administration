@@ -1,7 +1,7 @@
 # Deploy Linux VM & connect via ssh key instead of using admin username and password #
 Tasks:
-1. Deploy Linux VM
-2. Connect to Linux VM via ssh key. No password required
+1. Deploy Linux VM with ssh-key pair enable
+2. Connect to Linux VM via ssh-key. No password required
 3. Verify is working perfectly.
 
 ![Image](https://github.com/user-attachments/assets/788320ca-2095-48f5-b697-abd854b21ad2)
