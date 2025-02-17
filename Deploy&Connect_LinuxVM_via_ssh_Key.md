@@ -19,4 +19,4 @@ Tasks:
 ![Image](https://github.com/user-attachments/assets/b14bae56-82f4-4865-8d3f-b2fc7b6c9fee)
 ![Image](https://github.com/user-attachments/assets/090015a1-7e1f-4bbc-b329-a2486bf23180)
 ![Image](https://github.com/user-attachments/assets/51f10e9f-d455-4b09-b7b2-c06beb902dab)
-![Image](https://github.com/user-attachments/assets/e9bdc40b-1731-4bd4-aaf3-7b76d2e30ef8)
+
