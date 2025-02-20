@@ -7,7 +7,7 @@ Task:
 3. Upload your script & verify is uploaded
 4. Create virtual Machine and ensure http port 80 is enable
 5. Select Custom script and install webserver services
-6. Verify the webserver is install by pasting server ip on the broswer
+6. Verify the webserver is install by pasting server ip addr on the broswer
 
 ![Image](https://github.com/user-attachments/assets/52d9acd6-0e14-40d1-83ea-1bda3d16921d)
 
