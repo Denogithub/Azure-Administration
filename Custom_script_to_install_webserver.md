@@ -5,7 +5,7 @@ Task:
 1. Create a storage account
 2. Create a container to hold your script
 3. Upload your script & verify is uploaded
-4. Create virtual Machine and ensure http port 80 is enable
+4. Create virtual Machine and enable http port 80
 5. Select Custom script and install webserver services
 6. Verify the webserver is install by pasting server ip addr on the broswer
 
