@@ -2,10 +2,10 @@
 # Note: Most Deploy VM comes with OS disk, no data disk is attached. #
 Task:
 1. create a new windows Vm
-2. Verify OS disk is attached but no data disk is attach.
+2. Verify OS disk is attached but no data disk
 3. create & attached a new data disk
-4. login remotely to the windows server & format the new data disk created
-5. Verify disk is attached to VM and can be written to.
+4. login remotely to the windows server & format the new data disk
+5. Verify data disk is attached to VM and can be written to.
 
 ![Image](https://github.com/user-attachments/assets/a031ce96-e309-4026-8224-6cf74fef7a48)
 
